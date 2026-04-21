@@ -9,7 +9,7 @@ I'm an **AI / ML Engineer** based in London, passionate about building intellige
 - 🔭 I'm currently working on AI-driven projects spanning **NLP, computer vision, and data analysis**
 - 🌱 Always exploring new research and pushing models into production
 - 💡 I enjoy turning complex ML ideas into clean, usable products
-- 📫 Reach me at: [shk_css@yahoo.com](mailto:shk_css@yahoo.com)
+- 📫 Reach me at: [masjedi_h@yahoo.com](mailto:masjedi_h@yahoo.com)
 - 🔗 Connect on [LinkedIn](https://linkedin.com/in/hosseinkhanehmasjedi)
 
 ---
