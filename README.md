@@ -1,20 +1,20 @@
-# Hi there, I'm Hossein 👋
+# Hi there, I'm Hossein
 
-I'm an **AI / ML Engineer** based in London, passionate about building intelligent systems — from research tools to real-world applications across machine learning, computer vision, NLP, and data analysis.
-
----
-
-## 🧠 About Me
-
-- 🔭 I'm currently working on AI-driven projects spanning **NLP, computer vision, and data analysis**
-- 🌱 Always exploring new research and pushing models into production
-- 💡 I enjoy turning complex ML ideas into clean, usable products
-- 📫 Reach me at: [masjedi_h@yahoo.com](mailto:masjedi_h@yahoo.com)
-- 🔗 Connect on [LinkedIn](https://linkedin.com/in/hosseinkhanehmasjedi)
+I'm an **AI / ML Engineer** based in London, passionate about building intelligent systems, from research tools to real-world applications across machine learning, computer vision, NLP, and data analysis.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- I'm currently working on AI-driven projects spanning **NLP, computer vision, and data analysis**
+- Always exploring new research and pushing models into production
+- I enjoy turning complex ML ideas into clean, usable products
+- Reach me at: [masjedi_h@yahoo.com](mailto:masjedi_h@yahoo.com)
+- Connect on [LinkedIn](https://linkedin.com/in/hosseinkhanehmasjedi)
+
+---
+
+## Tech Stack
 
 **Languages**
 
@@ -39,7 +39,7 @@ I'm an **AI / ML Engineer** based in London, passionate about building intellige
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -51,7 +51,7 @@ I'm an **AI / ML Engineer** based in London, passionate about building intellige
 
 ---
 
-## 📊 Most Used Languages
+## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xCamelot2001&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
